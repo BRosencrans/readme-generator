@@ -7,7 +7,7 @@
     
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Demo](#Demo Video)
+  - [Demo Video](#Demo Video)
   - [Collaborators](#Collaborators)
   - [License](#License)
   - [Tests](#Tests)
