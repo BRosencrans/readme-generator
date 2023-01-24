@@ -1,7 +1,7 @@
-# this
+# Readme Generator
   
   ## Description
-  is
+  this is a basic readme generator that uses the inquier npm package to generate a new markdown
     
   ## Table of Contents
     
@@ -13,19 +13,19 @@
   
     
   ## Installation
-  a
+  Open  VScode then open then right click on index.js and open the intergated terminal and type npm install to download the required node modules
     
   ## Usage
-  test
+   To use this you must have [Nodejs](https://nodejs.org/en/) installed then open the folder you cloned this in and run VSCode then right click on index.js and open the intergated terminal and run node index.js then follow the insturctions on the screen and you have a new markdown!
  
   ## Collaborators
-  everybody
+  Thanks for your time!
   
   ## License
   ![badge](https://img.shields.io/badge/license-None-green)
   
   ## Tests
-  
+  N/A
   
   ## Questions?
   My github page is here [brosencrans](https://github.com/brosencrans)
