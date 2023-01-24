@@ -27,5 +27,5 @@
   ## Tests
   
   
-  ## Questions?
-    My github page is here[brosencrans](https://github.com/brosencrans)
+  ## Questions
+   My github page is here [brosencrans](https://github.com/brosencrans)
