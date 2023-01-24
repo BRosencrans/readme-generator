@@ -1,4 +1,4 @@
-
+//variables to call various scripts
 const inquirer = require('inquirer')
 const fs = require('fs')
 const newMarkdown = require ('./utils/generateMarkdown.js')
@@ -60,7 +60,7 @@ function init() {
       
       const mrkDownData = newMarkdown(newAnswers)
 //writes new readme 
-         fs.writeFile('README.md', mrkDownData, function(err) {
+         fs.writeFile('./new_mrkdwn/README.md', mrkDownData, function(err) {
                if (err){
    console.log(err)
 }

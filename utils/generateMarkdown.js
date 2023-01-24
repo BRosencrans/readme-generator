@@ -14,7 +14,7 @@ function generateMarkdown(data) {
   - [Collaborators](#Collaborators)
   - [License](#License)
   - [Tests](#Tests)
-  
+  - [Questions?](#Questions?)
     
   ## Installation
   ${data.installation}
@@ -32,8 +32,8 @@ function generateMarkdown(data) {
   ${data.tests}
   
   ## Questions?
-  My github page is here [${data.github}](https://github.com/${data.github})
-  You can Email me at <a href="mailto:${data.email}">${data.email}</a>`
+  My github page is here: [${data.github}](https://github.com/${data.github})
+  You can Email me at: <a href="mailto:${data.email}">${data.email}</a>`
 }
 
 
