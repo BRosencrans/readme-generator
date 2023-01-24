@@ -29,8 +29,10 @@ function generateMarkdown(data) {
   ![badge](https://img.shields.io/badge/license-${data.licenseType}-green)
   
   ## Tests
-  ${data.tests}`
+  ${data.tests}
   
+  ## Questions?
+    My github page is here [${data.github}](https://github.com/${data.github})`
 }
 
 
