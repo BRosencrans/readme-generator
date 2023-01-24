@@ -1,25 +1,25 @@
-# Test Demo
+# Mrkdwn Test
   
   ## Description
-  This is a test
+  This is to demonstrate everything works
     
   ## Table of Contents
     
-  - [Installation](#installation)
-  - [Usage](#usage)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
   - [Collaborators](#Collaborators)
   - [License](#License)
   - [Tests](#Tests)
   - [Questions?](#Questions?)
     
   ## Installation
-  Use node and npm
+  node.js needed run npm install to get req modules
     
   ## Usage
-  have fun
+  see above
  
   ## Collaborators
-  Thank you
+  Thank you for your time!
   
   ## License
   ![badge](https://img.shields.io/badge/license-None-green)
