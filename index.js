@@ -44,6 +44,11 @@ const answers = [
       type: 'input',
       message: "Please enter your github user name",
       name: 'github',
+   },
+   {
+      type: 'input',
+      message: "Please enter your email address",
+      name: 'email',
    }
 ]
 
