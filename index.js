@@ -30,6 +30,12 @@ const answers = [
        name: 'thanks',
     },
     {
+      type: 'list',
+      message: "Please pick a license if you are using one",
+      choices: ["MIT", "GPL", "CC", "ISC", "WTFPL", "None"],
+      name: 'licenseType',
+   },
+    {
        type: 'input',
        message: "Please enter any testing information here",
        name: "tests",
