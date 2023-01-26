@@ -32,5 +32,5 @@
   N/A
   
   ## Questions?
-  My github page is here [brosencrans](https://github.com/brosencrans)
-  You can Email me at <a href="mailto:n/a">n/a</a>
+  My github page is here: [brosencrans](https://github.com/brosencrans)
+  You can Email me at: <a href="mailto:n/a">n/a</a>
